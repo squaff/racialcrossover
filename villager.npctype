@@ -590,13 +590,25 @@
 				"nephilim": {
 					"avali": [
 						"Unlike my brethren, I am quite fond of Avali. They're quite nice, on a spit, drenched in barbeque sauce.",
-						"Don't mold around me, unless you wish to lose your skin as well.",
+						"Don't molt around me, unless you wish to lose your skin as well.",
 						"Leave me be, bird. I do not understand your squawking.",
 						"I have no work for you, nomad.",
 						"The Charred Council has granted this area to us. Proceed at your own discretion.",
 						"Keep the balance stranger.",
 						"If you have souls, seek out vulgrim."
 							],
+					"skellies": [
+						"Your bones make good weapons.",
+						"You humans look better without the putrid flesh you wear.",
+						"You must be a lot of fun around dogs.",
+						"I'm sure you can break your curse by having someone burry your body in several different places."
+						"Rockin' outfit you... how do you have hair?",
+						"You may not flake like a human, but your dry bones are bringing around local kanines.",
+						"If I hear the word dude one more time!",
+						"The Charred Council has granted this area to us. Proceed at your own discretion.",
+						"Keep the balance stranger.",
+						"If you have souls, seek out vulgrim."
+							],	
 					"grey": [
 						"You come in peace? I don't.",
 						"Our leaders meet with no one they do not seek out themselves.",
